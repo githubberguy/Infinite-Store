@@ -1,4 +1,3 @@
-return nil
 local getconnections = getconnections or get_signal_cons
 if getconnections then
 	for _, v in pairs(getconnections(game:GetService("ScriptContext").Error)) do
